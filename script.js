@@ -1,7 +1,9 @@
 var locations = []; // this array will hold your objects
 
 // object constructor
-
+function PizzaLocation = new locationObject (state, revenue, locationCount) {
+  this.state = 
+}
 // object instances
 
 // push object instances to locations array
